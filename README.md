@@ -1,5 +1,5 @@
 # FastAPI
-###**OBJECT DETECTION USING YOLOV3 AND CV** </p>
+**OBJECT DETECTION USING YOLOV3 AND CV** </p>
 This is a mini object detection project that uses the already existing trained model from
 **cvlib** and yolov3.
 This project is intended to quickly build a machine learning model for deployment.
